@@ -1,6 +1,6 @@
 # keymacs.chromeextension
 
-Emacs like keybind for chrome
+Emacs like keybind for Chrome
 
 ## Scrolling
 
